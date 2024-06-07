@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Diana Glez 👋
 
 <!--
 **diana2431/diana2431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
